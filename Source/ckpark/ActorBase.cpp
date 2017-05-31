@@ -3,7 +3,6 @@
 #include "ckpark.h"
 #include "ActorBase.h"
 
-
 // Sets default values
 AActorBase::AActorBase()
 {
